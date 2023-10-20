@@ -1,7 +1,6 @@
 > 
 <html>
 <head>
-    <title>centro polivalente de artes</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head> 
 <body>
