@@ -105,8 +105,8 @@ footer {
 .container img {
     width: 100px;
     position: absolute;
-    left: 10%;
-    transform: translate(-40%, -40%);
+    left: 50%;
+    transform: translate(-45%, -45%);
 }
 
 @media screen and (max-width: 800px){
