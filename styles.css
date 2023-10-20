@@ -105,7 +105,7 @@ footer {
 .container img {
     width: 100px;
     position: absolute;
-    left: 90%;
+    left: 80%;
     transform: translate(-50%, -50%);
 }
 
